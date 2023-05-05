@@ -4,7 +4,9 @@ Bienvenidos al repositorio de la Clase 11 de la asignatura TEL-335 de la USM Cas
 
 Este repositorio contiene ejemplos de interfaces utilizando las distintas estrategias vistas en la clase. Cada ejemplo está organizado en su propia carpeta y contiene instrucciones detalladas para ejecutar el proyecto.
 
-## Ejemplos
+## Estrategias
+
+En este repositorio, cada estrategia se encuentra organizada en una carpeta individual. Dentro de ellas, se halla un pequeño proyecto que ejemplifica la implementación de botones de un sistema de diseño, a fin de ilustrar cómo se trabaja con cada enfoque en un contexto real.
 
 ### [CSS in JS](https://github.com/alvaaz/clase-11-react-diseno/tree/main/css-in-js)
 
@@ -13,5 +15,7 @@ Para este ejemplo de utilizar CSS dentro de JS utilizaremos la librería [styled
 ### [Utility Classes](https://github.com/alvaaz/clase-11-react-diseno/tree/main/utility-classes)
 
 Para este ejemplo de utilizar clases de utilidad utilizaremos la librería [tailwindcss](https://tailwindcss.com/). Existen otras librerías que permiten hacer lo mismo, pero tailwindcss es la más popular y la que tiene mayor cantidad de recursos disponibles.
+
+## Ejecución
 
 Para la ejecución de todos los proyectos estoy usando [pnpm](https://pnpm.js.org/), pero puedes usar el gestor de paquetes que prefieras. Adicionalmente, como generador de proyectos estoy usando [Vite](https://vitejs.dev/).
