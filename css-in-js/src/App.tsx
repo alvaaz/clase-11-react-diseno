@@ -9,7 +9,9 @@ const Group = styled.div`
 `;
 
 const Typography = styled.h1`
-  font-family: "Inter", sans-serif;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 1.5rem;
   font-weight: 600;
   color: #000;
