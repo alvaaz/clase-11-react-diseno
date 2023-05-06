@@ -1,0 +1,79 @@
+.buttonPrimary {
+  background-color: #4F46E5;
+  color: #ffffff;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #4F46E5;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+  font-weight: 600;
+  padding: 10px 18px;
+  font-size: 1rem;
+}
+
+.buttonSecondary {
+  padding: 10px 18px;
+  background-color: #ffffff;
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+  color: #374151;
+  font-weight: 600;
+  border-style: solid;
+  border-radius: 0.5rem;
+  border-width: 1px;
+  border-color: #D1D5DB;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.buttonPrimary:focus {
+  outline-color: #e0e7ff;
+  outline-width: 4px;
+  outline-style: solid;
+}
+
+.buttonPrimary:hover {
+  background-color: #4338CA;
+}
+
+.buttonSecondary:hover {
+  background-color: rgb(248 250 252);
+}
+
+.buttonSecondary:focus {
+  outline-color: #f3f4f6;
+  outline-width: 4px;
+  outline-style: solid;
+}
+
+.buttonPrimaryDisabled {
+  padding: 10px 18px;
+  background-color: #E0E7FF;
+  color: #ffffff;
+  border-style: solid;
+  border-radius: 0.5rem;
+  border-width: 1px;
+  border-color: rgb(224 231 255);
+  cursor: not-allowed;
+  outline: 0;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.buttonSecondaryDisabled {
+  padding: 10px 18px;
+  background-color: #ffffff;
+  color: rgb(209 213 219);
+  border-style: solid;
+  border-radius: 0.5rem;
+  border-width: 1px;
+  border-color: rgb(229 231 235);
+  cursor: not-allowed;
+  outline: 0;
+  font-size: 1rem;
+  font-weight: 600;
+}
