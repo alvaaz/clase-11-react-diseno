@@ -39,9 +39,7 @@ export function Button({
       form={form}
       className={`${
         disabled ? typeClassnames[type].disabled : typeClassnames[type].main
-      } rounded-lg transition-all ease-in-out py-2.5 px-[18px] font-semibold ${className} ${
-        loading && "flex items-center gap"
-      }`}
+      } ${className} ${loading && "flex items-center gap"}`}
       type={htmlType}
     >
       {children}
