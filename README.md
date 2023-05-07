@@ -20,6 +20,16 @@ En este ejemplo, exploraremos el uso de clases de utilidad. La estrategia consis
 
 En este ejemplo, implementaremos CSS Modules, un sistema para modularizar y organizar los estilos en proyectos de React. Los archivos CSS se importan directamente en los componentes y generan nombres de clase únicos, evitando conflictos de estilo y mejorando la encapsulación de los estilos.
 
+## Ejemplos
+
+Además de los ejemplos de estrategias, este repositorio contiene ejemplos de componentes de diseño para mostrar cual es el proceso de implementación de diseños desde Figma a código. Estos ejemplos se encuentran en la carpeta `examples` y están organizados en carpetas individuales. Cada ejemplo contiene un archivo `README.md` con instrucciones detalladas para ejecutar el proyecto.
+
+### [Spotify Cards](https://github.com/alvaaz/clase-11-react-diseno/tree/main/example-1)
+
+![Spotify Cards Mockup!](https://github.com/alvaaz/clase-11-react-diseno/blob/ba4e44e27292e7b5dd9d8c3b9113a08186627e50/example-1/public/cover.png?raw=true "Spotify Cards Mockup")
+
+En este caso, implementaremos un componente de tarjeta de artista de Spotify. Abordaremos conceptos clave como la creación de componentes, la gestión de estados y la adaptabilidad, así como aspectos a considerar al momento de poner en práctica un diseño.
+
 ## Ejecución
 
 Para la ejecución de todos los proyectos estoy usando [pnpm](https://pnpm.js.org/), pero puedes usar el gestor de paquetes que prefieras. Adicionalmente, como generador de proyectos estoy usando [Vite](https://vitejs.dev/).
