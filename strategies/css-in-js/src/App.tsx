@@ -6,6 +6,7 @@ const Group = styled.div`
   flex-direction: column;
   align-items: flex-start;
   gap: 1rem;
+  padding: 1rem;
 `;
 
 const Typography = styled.h1`

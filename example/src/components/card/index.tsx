@@ -18,7 +18,7 @@ export function Card({ imageUrl, title, description, color = "red" }: Props) {
         >
           <h1
             style={{ borderLeftColor: color }}
-            className={`text-white drop-shadow-md border-l-4 pl-4 font-bold absolute bottom-4 z-10`}
+            className={`text-white drop-shadow-md border-l-4 pl-4 font-bold absolute bottom-4 z-10 truncate w-full pr-4`}
           >
             {title}
           </h1>
@@ -38,7 +38,7 @@ export function Card({ imageUrl, title, description, color = "red" }: Props) {
         </svg>
       </div>
       <figcaption>
-        <h2 className="font-bold text-white mb-3">{title}</h2>
+        <h2 className="font-bold text-white mb-3 truncate">{title}</h2>
         <p className="text-gray-300">{description}</p>
       </figcaption>
     </figure>

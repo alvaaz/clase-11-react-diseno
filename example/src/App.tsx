@@ -14,7 +14,7 @@ const data = [
     color: "rgb(94 234 212)",
   },
   {
-    title: "2010x Mix",
+    title: "Nombre mix super largo que no cabe en el card",
     description: "Jacob Collier, Daryl Hall & John Oates, Jason Mraz",
     imageUrl: "/alejandro.png",
     color: "rgb(125 211 252)",
