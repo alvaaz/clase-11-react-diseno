@@ -4,6 +4,8 @@ Bienvenidos al repositorio de la Clase 11 de la asignatura TEL-335 de la USM Cas
 
 Este repositorio contiene ejemplos de interfaces utilizando las distintas estrategias vistas en la clase. Cada ejemplo está organizado en su propia carpeta y contiene instrucciones detalladas para ejecutar el proyecto.
 
+[Acá](https://www.figma.com/file/GQQkhuZVyt0l18K42eLkDn/Clase-11---Cuando-el-dise%C3%B1o-y-React-se-juntan?node-id=0%3A1&t=N8ieRHTjJwerO0bF-1) puedes encontrar el archivo de Figma y [acá](https://goede.cl/usm-slides) el PDF de las slides.
+
 ## Estrategias
 
 En este repositorio, cada estrategia se encuentra organizada en una carpeta individual. Dentro de ellas, se halla un pequeño proyecto que ejemplifica la implementación de botones de un sistema de diseño, a fin de ilustrar cómo se trabaja con cada enfoque en un contexto real.
