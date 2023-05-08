@@ -1,8 +1,8 @@
-## Estrategia de CSS en JS
+# Estrategia de CSS en JS
 
 Para ejecutar el proyecto, primero instala las dependencias con `npm install` y luego ejecuta `npm dev`.
 
-### ¿Qué es CSS Modules?
+## ¿Qué es CSS Modules?
 
 `button.module.css`
 
@@ -33,7 +33,7 @@ Esto evita conflictos de estilo entre diferentes componentes, ya que cada compon
 
 En resumen, CSS Modules es una forma de mantener tus estilos en archivos CSS separados, pero asegurándote de que estén específicamente asociados a un componente de React, proporcionando un encapsulamiento de estilos más efectivo y evitando conflictos.
 
-### ¿Por qué usar CSS Modules?
+## ¿Por qué usar CSS Modules?
 
 Usar CSS Modules en tus proyectos de React tiene varias ventajas en comparación con enfoques tradicionales o incluso con CSS-in-JS. Algunas razones para considerar el uso de CSS Modules son:
 

@@ -1,8 +1,8 @@
-## Estrategia de Utility Classes
+# Estrategia de Utility Classes
 
 Para ejecutar el proyecto, primero instala las dependencias con `npm install` y luego ejecuta `npm dev`.
 
-### ¿Qué es Utility Classes?
+## ¿Qué es Utility Classes?
 
 ```html
 <figure class="md:flex bg-slate-100 rounded-xl p-8 md:p-0 dark:bg-slate-800">
@@ -39,7 +39,7 @@ En el caso de [TailwindCSS](https://tailwindcss.com/), es un framework que propo
 
 En resumen, las clases de utilidad, como las proporcionadas por [TailwindCSS](https://tailwindcss.com/), son una forma de aplicar estilos comunes y consistentes a tus elementos y componentes de React de manera rápida y eficiente, sin la necesidad de escribir CSS personalizado.
 
-### ¿Por qué usar Utility Classes?
+## ¿Por qué usar Utility Classes?
 
 Usar clases de utilidad, como las proporcionadas por frameworks como Tailwind CSS, tiene varias ventajas en comparación con enfoques más tradicionales de escribir CSS. Algunas razones para considerar el uso de clases de utilidad son:
 

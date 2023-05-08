@@ -1,8 +1,8 @@
-## Estrategia de CSS en JS
+# Estrategia de CSS en JS
 
 Para ejecutar el proyecto, primero instala las dependencias con `npm install` y luego ejecuta `npm dev`.
 
-### ¿Qué es CSS en JS?
+## ¿Qué es CSS en JS?
 
 ```js
 import styled from "styled-components";
@@ -37,7 +37,7 @@ render(
 
 CSS-in-JS es una forma de aplicar estilos a tus componentes en React usando JavaScript en lugar de archivos CSS tradicionales. Esto te permite escribir y gestionar estilos dentro del mismo archivo de tu componente, facilitando el control de los estilos y haciéndolos más dinámicos y personalizados según el estado o las propiedades del componente.
 
-### ¿Por qué usar CSS en JS?
+## ¿Por qué usar CSS en JS?
 
 Usar CSS-in-JS tiene varias ventajas en comparación con el enfoque tradicional de utilizar archivos CSS separados. Aquí hay algunas razones para considerar el uso de CSS-in-JS en tus proyectos de React:
 
